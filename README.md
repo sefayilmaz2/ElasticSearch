@@ -24,8 +24,8 @@ Bu proje, ElasticSearch ile bir .NET API kullanarak CRUD işlemleri gerçekleşt
 ### 1. Projeyi Klonlayın
 
 ```bash
-git clone https://github.com/kullanici-adi/proje-adi.git
-cd proje-adi
+git clone https://github.com/sefayilmaz2/ElasticSearch.git
+cd ElasticSearch
 ```
 
 ### 2. Docker Kurulumu
