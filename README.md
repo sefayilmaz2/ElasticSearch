@@ -15,7 +15,7 @@ Bu proje, ElasticSearch ile bir .NET API kullanarak CRUD işlemleri gerçekleşt
 ## Gereksinimler
 
 - Docker
-- .NET 6 veya üstü
+- .NET 8
 - ElasticSearch (Docker üzerinden ayarlanmıştır)
 - Kibana (ElasticSearch'ü izlemek için)
 
